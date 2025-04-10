@@ -1,9 +1,9 @@
 # PROJECT-PLAN
-##📁 Project Title: Project Management Plan
+## 📁 Project Title: Project Management Plan
 📌 Description
 This repository contains a comprehensive project plan created using Microsoft Project (.mpp). The file outlines the full scope, structure, timeline, and resource management strategy for executing a well-organized project from initiation to completion.
 
-###🧱 Key Components
+### 🧱 Key Components
 Work Breakdown Structure (WBS)
 Organized tasks and subtasks grouped by project phases.
 
@@ -25,7 +25,7 @@ The objective of this plan is to provide a structured and actionable roadmap for
 📄 File Included
 Project.mpp – Microsoft Project file containing the full plan
 
-##### 🛠️ Tools Used
+#####  🛠️ Tools Used
 Microsoft Project
 
 [Optional: Excel, MS Teams, Power BI, etc.]
